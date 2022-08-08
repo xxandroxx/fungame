@@ -1,0 +1,27 @@
+.container-navbar{
+    
+    background-color: #05EA09;
+    background: linear-gradient(to bottom, #08d70b, #56f859, #08d70b);
+    display: flex;
+    justify-content: space-between;
+    transition: .3s;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 700;
+    padding: 2rem 3rem;
+   
+}
+
+a:hover{
+    background: linear-gradient(to bottom, #06de0a, #46ca48, #06de0a);
+}
+
+
+.container-login{
+    display: flex;
+    justify-content: space-between;
+}
+
